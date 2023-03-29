@@ -1,6 +1,21 @@
-title: Minimal theme
+title: <p align="center"> Jayottam Jadhav </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="/assets/pdf/Jayottam Jadhav CV Resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/jayottam-jadhav-58975337/">LinkedIn</a> |
+  <a href="https://github.com/jayottam">GitHub</a>
+  
+  <br>   
+  Engineer at heart and entrepreneur mind, having decade of experience in building scalable web applications using plethora of technologies. 
+  In the past decade, I have showcased exceptional expertise in constructing projects and products, while also taking the lead in guiding and mentoring my team to develop into future leaders. 
+  I believe result oriented approach is more fruitful than just putting efforts. Admirer of "Pareto Principle" also know as 80/20 rule. 
+  I believe if you ask the right question you can solve any problem, my version of "First Principle". I love to pickup new skills every now and then. 
+  Would be interested to learn new things from my connections.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
